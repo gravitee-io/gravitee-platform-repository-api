@@ -30,8 +30,7 @@ public enum Scope {
     RATE_LIMIT("ratelimit"),
     ANALYTICS("analytics"),
     CACHE("cache"),
-    KEY_VALUE("keyvalue"),
-    FEATURE_FLAGS("featureflags");
+    KEY_VALUE("keyvalue");
 
     String name;
 
