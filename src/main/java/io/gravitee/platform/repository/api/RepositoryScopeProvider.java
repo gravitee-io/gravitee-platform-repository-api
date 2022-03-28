@@ -20,7 +20,6 @@ package io.gravitee.platform.repository.api;
  * @author GraviteeSource Team
  */
 public interface RepositoryScopeProvider {
-
     /**
      * Repository implementations must implement this method in order to list all the repository scopes they can handle.
      *
