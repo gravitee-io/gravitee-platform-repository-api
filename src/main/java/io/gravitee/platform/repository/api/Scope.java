@@ -21,7 +21,6 @@ package io.gravitee.platform.repository.api;
  * @author GraviteeSource Team
  */
 public enum Scope {
-
     /*
      * All scopes are centralized here in order to keep naming coherency between all Gravitee components.
      */
