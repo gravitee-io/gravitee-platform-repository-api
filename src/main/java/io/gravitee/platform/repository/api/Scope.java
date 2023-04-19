@@ -28,7 +28,6 @@ public enum Scope {
     MANAGEMENT("management"),
     RATE_LIMIT("ratelimit"),
     ANALYTICS("analytics"),
-    CACHE("cache"),
     KEY_VALUE("keyvalue");
 
     String name;
