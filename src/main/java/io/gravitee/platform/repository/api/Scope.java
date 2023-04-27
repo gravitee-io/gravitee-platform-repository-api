@@ -28,7 +28,8 @@ public enum Scope {
     MANAGEMENT("management"),
     RATE_LIMIT("ratelimit"),
     ANALYTICS("analytics"),
-    KEY_VALUE("keyvalue");
+    KEY_VALUE("keyvalue"),
+    DISTRIBUTED_SYNC("distributed-sync");
 
     String name;
 
