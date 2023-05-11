@@ -27,4 +27,15 @@ public interface RepositoryScopeProvider {
      * @see Scope
      */
     Scope[] getHandledScopes();
+
+    /**
+     * Repository implementations must implement this method in order to list all the optional repository scopes they can handle.
+     * Any missing scope configuration will be ignored.
+     *
+     * @return all the repository scopes optionally handled.
+     * @see Scope
+     */
+    default Scope[] getOptionalHandledScopes() {
+        return new Scope[] {};
+    }
 }
