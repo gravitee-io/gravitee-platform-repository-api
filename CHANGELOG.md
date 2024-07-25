@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/gravitee-io/gravitee-platform-repository-api/compare/1.3.0...1.4.0) (2024-07-25)
+
+
+### Features
+
+* add gateway scope ([af16b5a](https://github.com/gravitee-io/gravitee-platform-repository-api/commit/af16b5af43a145965bb9069f0d0a6e5f103b2412))
+
 # [1.3.0](https://github.com/gravitee-io/gravitee-platform-repository-api/compare/1.2.1...1.3.0) (2023-05-29)
 
 
