@@ -26,6 +26,7 @@ public enum Scope {
      */
     OAUTH2("oauth2"),
     MANAGEMENT("management"),
+    GATEWAY("gateway"),
     RATE_LIMIT("ratelimit"),
     ANALYTICS("analytics"),
     KEY_VALUE("keyvalue"),
