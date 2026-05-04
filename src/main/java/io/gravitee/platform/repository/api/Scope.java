@@ -30,7 +30,9 @@ public enum Scope {
     RATE_LIMIT("ratelimit"),
     ANALYTICS("analytics"),
     KEY_VALUE("keyvalue"),
-    DISTRIBUTED_SYNC("distributed-sync");
+    DISTRIBUTED_SYNC("distributed-sync"),
+    OTEL_TRACES("otel-traces"),
+    OTEL_LOGS("otel-logs");
 
     String name;
 
