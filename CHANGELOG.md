@@ -1,3 +1,25 @@
+# [2.0.0](https://github.com/gravitee-io/gravitee-platform-repository-api/compare/1.4.0...2.0.0) (2026-05-04)
+
+
+### Bug Fixes
+
+* update gravitee orb ([3a3acb1](https://github.com/gravitee-io/gravitee-platform-repository-api/commit/3a3acb1f65002390dde3876350dd90e153b3698e))
+
+
+### chore
+
+* bump gravitee-parent ([abdd5d8](https://github.com/gravitee-io/gravitee-platform-repository-api/commit/abdd5d87caedb5353905c4d8ba460195eca5232b))
+
+
+### Features
+
+* add new repository scopes for OTel traces and logs ([da5555e](https://github.com/gravitee-io/gravitee-platform-repository-api/commit/da5555ec3a4f4825110d505e102d1e56aa2bbba5))
+
+
+### BREAKING CHANGES
+
+* Requires JDK 21
+
 # [1.4.0](https://github.com/gravitee-io/gravitee-platform-repository-api/compare/1.3.0...1.4.0) (2024-07-25)
 
 
